@@ -1,0 +1,3 @@
+﻿  functions.c
+C:\Users\calvi\Documents\CPTS 122\122PA2\122PA2\functions.c(246,6): warning C4013:  'gets' undefined; assuming extern returning int
+  122PA2.vcxproj -> C:\Users\calvi\Documents\CPTS 122\122PA2\Debug\122PA2.exe
